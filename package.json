@@ -1,0 +1,19 @@
+{
+  "name": "hello-exponent",
+  "version": "1.0.0",
+  "description": "Hello (World) for Exponent",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/exponentjs/hello-exponent.git"
+  },
+  "author": "exponent.team@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/exponentjs/hello-exponent/issues"
+  },
+  "homepage": "https://github.com/exponentjs/hello-exponent#readme"
+}
